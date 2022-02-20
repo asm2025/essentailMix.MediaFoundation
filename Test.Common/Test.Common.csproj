@@ -9,7 +9,6 @@
 		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
 		<Prefer32Bit>false</Prefer32Bit>
 		<Platforms>x64;x86</Platforms>
-		<IsPackable>false</IsPackable>
 	</PropertyGroup>
 	
 	<PropertyGroup Condition=" '$(Platform)'=='x64' ">
